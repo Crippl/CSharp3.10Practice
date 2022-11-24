@@ -1,0 +1,7 @@
+D:\Programs\VSProjects\С#\CSharp3.10Practice\Task3\bin\Debug\Task3.exe.config
+D:\Programs\VSProjects\С#\CSharp3.10Practice\Task3\bin\Debug\Task3.exe
+D:\Programs\VSProjects\С#\CSharp3.10Practice\Task3\bin\Debug\Task3.pdb
+D:\Programs\VSProjects\С#\CSharp3.10Practice\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\Programs\VSProjects\С#\CSharp3.10Practice\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\Programs\VSProjects\С#\CSharp3.10Practice\Task3\obj\Debug\Task3.exe
+D:\Programs\VSProjects\С#\CSharp3.10Practice\Task3\obj\Debug\Task3.pdb
